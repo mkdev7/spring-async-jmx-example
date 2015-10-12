@@ -39,5 +39,5 @@ This example demonstrates:
 
 * ThreadPoolMBean - This is the MBean that has the attributes to display current thread usage in JMX console
 * jmx-console-security-servlet.xml - This has the configuration required for setting up the JMX console
-
-
+* Screenshot of the JMX Console
+![alt text](https://github.com/mkdev7/spring-async-jmx-example/blob/master/src/main/webapp/resources/images/jmx_console.png "JMX console screenshot")
