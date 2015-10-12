@@ -1,0 +1,15 @@
+#Eclipse
+.classpath
+.project
+/.settings
+
+
+#Intellij
+*.iml
+.idea/
+
+#Maven
+/target
+
+#OSX
+.DS_Store
